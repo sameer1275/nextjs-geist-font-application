@@ -1,0 +1,58 @@
+export const products = [
+  {
+    id: 1,
+    name: "Stylish Jacket",
+    image: "https://placehold.co/400x300?text=High-quality+designer+jacket+with+modern+cut",
+    price: "$129.99",
+    category: "Clothing",
+  },
+  {
+    id: 2,
+    name: "Modern Sneakers",
+    image: "https://placehold.co/400x300?text=Trendy+and+comfortable+sneakers+for+daily+wear",
+    price: "$89.99",
+    category: "Clothing",
+  },
+  {
+    id: 3,
+    name: "Premium T-Shirt",
+    image: "https://placehold.co/400x300?text=Soft+cotton+premium+t-shirt+with+perfect+fit",
+    price: "$39.99",
+    category: "Clothing",
+  },
+  {
+    id: 4,
+    name: "Designer Jeans",
+    image: "https://placehold.co/400x300?text=Classic+denim+jeans+with+contemporary+styling",
+    price: "$79.99",
+    category: "Clothing",
+  },
+  {
+    id: 5,
+    name: "Smartphone Pro",
+    image: "https://placehold.co/400x300?text=Innovative+smartphone+with+high-tech+features",
+    price: "$699.99",
+    category: "Electronics",
+  },
+  {
+    id: 6,
+    name: "Wireless Headphones",
+    image: "https://placehold.co/400x300?text=Premium+wireless+headphones+with+noise-cancellation",
+    price: "$199.99",
+    category: "Electronics",
+  },
+  {
+    id: 7,
+    name: "Gaming Laptop",
+    image: "https://placehold.co/400x300?text=High-performance+gaming+laptop+with+RGB+lighting",
+    price: "$1299.99",
+    category: "Electronics",
+  },
+  {
+    id: 8,
+    name: "Smart Watch",
+    image: "https://placehold.co/400x300?text=Advanced+smartwatch+with+health+monitoring",
+    price: "$299.99",
+    category: "Electronics",
+  },
+];
